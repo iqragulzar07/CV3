@@ -218,4 +218,4 @@ for cert in certs:
 cert_html += '</div>'
 st.markdown(cert_html, unsafe_allow_html=True)
 
-st.markdown("<br><p style='text-align:center; color:#475569;'>© 2026 Iqra Gulzar | Final Masterpiece Portfolio</p>", unsafe_allow_html=True)
+st.markdown("<br><p style='text-align:center; color:#475569;'>© 2026 Iqra Gulzar | Portfolio</p>", unsafe_allow_html=True)
