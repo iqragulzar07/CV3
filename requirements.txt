@@ -1,2 +1,6 @@
 streamlit
-lucide-icons
+opencv-python
+scikit-learn
+matplotlib
+pandas
+numpy
